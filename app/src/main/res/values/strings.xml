@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Number Generator Game</string>
+    <string name="a_title">PAGE A</string>
+    <string name="b_title">PAGE B</string>
+</resources>
